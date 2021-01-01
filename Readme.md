@@ -14,7 +14,7 @@
 <br>
 <hr>
 <br>
-<img src="/Images/3.jpg" alt="Could not load image" style="max-width:100%;">
+<img src="/Images/3.png" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
 <br>
